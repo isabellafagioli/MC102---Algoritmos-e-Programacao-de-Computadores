@@ -1,0 +1,2 @@
+O procedimento de separação de água não pode ser considerado um algoritmo, já que não possui uma entrada e uma saída específicas, uma vez que não apresenta medidas certas e precisas.
+Um algoritmo pode ser descrito como as orientações necessárias para, a partir de algo dado(entrada), obter-se algo que era esperado(saída), como se fosse uma receita para a partir dos ingredientes obter a comida preparada.
